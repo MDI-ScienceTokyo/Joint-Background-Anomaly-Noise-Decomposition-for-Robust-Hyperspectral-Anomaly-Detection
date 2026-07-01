@@ -6,8 +6,8 @@ K. Sato and S. Ono, "Joint Background-Anomaly-Noise Decomposition for Robust Hyp
 
 For more information, see the following
 
+- Official : https://ieeexplore.ieee.org/document/11543178
 - Preprint paper : https://arxiv.org/abs/2401.14814
-
 
 ## How to use
 
@@ -57,13 +57,14 @@ run main.m
 ## Reference
 If you use this code, please cite the following paper:
 ```bibtex
-@misc{sato2024robust,
-  doi = {10.48550/ARXIV.2401.14814},
-  url = {https://arxiv.org/abs/2401.14814},
+@ARTICLE{11543178,
   author={Sato, Koyo and Ono, Shunsuke},
-  title = {Joint Background-Anomaly-Noise Decomposition for Robust Hyperspectral Anomaly Detection via Constrained Convex Optimization},
-  publisher = {arXiv},
-  year = {2024},
-  howpublished = {\textit{arXiv:2401.14814}}
+  journal={IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing}, 
+  title={Joint Background–Anomaly–Noise Decomposition for Robust Hyperspectral Anomaly Detection via Constrained Convex Optimization}, 
+  year={2026},
+  volume={19},
+  number={},
+  pages={20217-20235},
+  doi={10.1109/JSTARS.2026.3698930}
 }
 ```
