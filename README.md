@@ -13,7 +13,7 @@ For more information, see the following
 
 ### 1. Download the dataset
 
-Please download `abu-beach-4.mat` from [Hyperspectral Datasets](https://xudongkang.weebly.com/data-sets.html) and place it in the `datasets` folder.
+Please download `abu-beach-4.mat` from [Hyperspectral Datasets](https://github.com/sxt1996/Airport-Beach-Urban-ABU/tree/main) and place it in the `datasets` folder.
 
 The directory structure should be as follows:
 
